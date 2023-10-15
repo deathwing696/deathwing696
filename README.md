@@ -12,12 +12,12 @@ Soy un programador Senior con experiencia en el desarrollo de aplicaciones empre
 ## Experiencia Laboral
 - 🏢 **Cype Ingenieros**
   - *Octubre 2013 - Febrero 2023*
-  - Desarrollador Senior
+  - Desarrollador Fullstack
   - Desarrollo de aplicaciones de escritorio standalone y plataforma web
 
 - 🏢 **Memorándum Multimedia**
   - *Agosto 2023 - Actualidad*
-  - Desarrollador Senior
+  - Desarrollador backend
   - Soporte a la plataforma pública calidadendestino.es.
 
 ## Contacto
